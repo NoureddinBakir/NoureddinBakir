@@ -9,20 +9,20 @@
 ## 📚 Education
 
 | 📖 _Interdisciplinary Engineering, Computer Science Minor_ | San Jose State University | Expected Graduation: May '23 |
-|--- |--- |---| 
+|:--- | :--- |---:| 
 * * Relevant Coursework: Data Structures & Algorithms, **Database Management**, Probability & Statistics, Mathemat- ical Proofs, Computer Organization and Architecture
 
 
 ## 💼 Experience
 
 |  NetApp |👨‍💻 _Software Engineer Intern_ | May 23, 2022 - August 19, 2022 |
-|--- |--- |---| 
+| :--- | :--- | ---: | 
 *
     * Work related experience will be noted here
 
 
 | Community API | 🏗 _Technical Founder_ | June 2021 - Dec 2021 |
-|--- |---|---| 
+| :--- | :---| ---: | 
 *
     * Built platform as a service for communities, enabling organizations to better communicate with their members,
     improve accessibility, and provide mobile-first experience for their members
@@ -38,7 +38,7 @@
     * My venture was supported by my local community organization, offered sponsorship, and shown interest by another prominent organization
 
 | ☪️ _Tarteel AI_ | Growth Intern | Mar 2021 - Apr 2021 |
-|--- |--- |---|
+| :--- | :--- | ---: |
 *
     * Developed marketing plan alongside COO and CPO capitalizing on Muslims around the world engaging with the
     Quran during the month of Ramadan
