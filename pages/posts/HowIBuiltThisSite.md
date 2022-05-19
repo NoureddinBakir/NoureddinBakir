@@ -21,5 +21,8 @@
 * Lack of html embedding features
     * Let's say you want to add collapsable points in your markdown via html, that can only happen if you go into your rendered html file and manually add the code
     * Should you save your md file, it'll overwrite any manual changes you made prior
+* Manual input of of Math (Latex), large binary files, etc.
 
-### May 17, 2022
+---
+    Created: May 17, 2022
+    Updated: May 19, 2022
